@@ -12,8 +12,8 @@ package chart
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/wubin1989/unioffice"
+	"github.com/wubin1989/unioffice/schema/soo/dml"
 )
 
 type CT_Title struct {

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/wubin1989/unioffice/schema/soo/wml"
 )
 
 func TestWdCT_PosVChoiceConstructor(t *testing.T) {

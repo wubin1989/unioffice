@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/wubin1989/unioffice/schema/soo/dml"
 )
 
 func TestCT_TextNormalAutofitConstructor(t *testing.T) {

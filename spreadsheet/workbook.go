@@ -18,16 +18,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/vmldrawing"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/wubin1989/unioffice"
+	"github.com/wubin1989/unioffice/common"
+	"github.com/wubin1989/unioffice/vmldrawing"
+	"github.com/wubin1989/unioffice/zippkg"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
-	sd "github.com/unidoc/unioffice/schema/soo/dml/spreadsheetDrawing"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/wubin1989/unioffice/schema/soo/dml"
+	crt "github.com/wubin1989/unioffice/schema/soo/dml/chart"
+	sd "github.com/wubin1989/unioffice/schema/soo/dml/spreadsheetDrawing"
+	"github.com/wubin1989/unioffice/schema/soo/pkg/relationships"
+	"github.com/wubin1989/unioffice/schema/soo/sml"
 )
 
 // ErrorNotFound is returned when something is not found

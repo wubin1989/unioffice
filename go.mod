@@ -1,1 +1,3 @@
-module github.com/unidoc/unioffice
+module github.com/wubin1989/unioffice
+
+go 1.13

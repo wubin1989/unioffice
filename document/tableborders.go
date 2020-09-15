@@ -8,10 +8,10 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/wubin1989/unioffice"
+	"github.com/wubin1989/unioffice/color"
+	"github.com/wubin1989/unioffice/measurement"
+	"github.com/wubin1989/unioffice/schema/soo/wml"
 )
 
 // TableBorders allows manipulation of borders on a table.

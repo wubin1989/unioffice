@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/wubin1989/unioffice/schema/soo/wml"
 )
 
 type mergeFieldInfo struct {

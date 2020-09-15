@@ -8,9 +8,9 @@
 package chart
 
 import (
-	"github.com/unidoc/unioffice/drawing"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
+	"github.com/wubin1989/unioffice/drawing"
+	"github.com/wubin1989/unioffice/schema/soo/dml"
+	crt "github.com/wubin1989/unioffice/schema/soo/dml/chart"
 )
 
 // BubbleChartSeries is a series to be used on a Bubble chart.
